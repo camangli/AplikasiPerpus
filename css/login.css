@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	margin:0;
+	padding:0;
+}
+p{
+	margin:0;
+	padding:0;
+}
+body{
+	margin:0;
+	padding:0;
+}
+#main{
+	margin-top:20%;
+	background: #FFFFFF;
+	margin:auto;
+	border:none;
+	text-align: left;
+	height:100%
+}
+label{
+	padding-top:20px;
+	float:left;
+	height:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+#foot{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-weight:900;
+	padding-top:20px;
+	border-top:#CCCCCC 4px solid;
+	height:40px;
+	background:#4AA5FF;
+	text-align:center;
+	margin:auto;
+}
+#Conlog{
+	height:90px;
+}
+#baglog{
+	padding-top:20px;
+	border-top:#CCCCCC 20px solid;
+	background:#0084C4;
+}
+#login{
+	margin:auto;
+	width:320px;
+	height:150px;
+}
+.button{
+	box-shadow: 0px 2px 2px #004488;
+	outline:none;
+	text-decoration:none;
+	font-weight:bold;
+	padding:5px 7px 5px 7px;
+	background:#006FA4;
+	float:right;
+	color:#FFFFFF;
+	border:none;
+	border-radius:2px;
+	border:1px #0059B3 solid;
+}
+.button:hover{
+	text-decoration:none;
+	font-weight:bold;
+	background-color:#0080C0;
+}
+.logu{
+	border-radius:1px;
+	width:200px;
+	height:30px;
+	border:none;
+	outline:none;
+	padding-left:30px;
+	padding-right:5px;
+	float:right;
+	margin-top:10px;
+	background:#FFFFFF url(../gambar/user2.jpg) left no-repeat;
+}
+.logp{
+	border-radius:1px;
+	width:200px;
+	margin-top:10px;
+	height:30px;
+	border:none;
+	float:right;
+	outline:none;
+	padding-left:30px;
+	padding-right:5px;
+	background:#FFFFFF url(../gambar/lock2.jpg) left no-repeat;
+}
+#logout{
+	border:2px #FFFFFF solid;
+	padding:10px;
+	float:right;
+	margin-top:140px;
+	border-bottom:none;
+}
+#login-t{
+	margin:auto;
+	width:320px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+#login-t h1{
+	border-bottom:#FFFFFF 2px solid;
+	padding-bottom:5px;
+}
+#mainlogo{
+	background:url(../gambar/sipo.png) left no-repeat;
+	height:100px;
+	margin-top:30px;
+	margin-left:60%;
+	padding-left:90px;
+	padding-top:80px;
+}
+#mainlogo h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#0080C0;
+	text-align:left;
+	font-size:36px;
+	height:36px;
+}
+#mainlogo p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#0080C0;
+	text-align:left;
+	margin-left:10px;
+	height:15px;
+}

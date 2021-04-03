@@ -1,0 +1,2 @@
+<h3>Tentang</h3>
+<p>Program Aplikasi Ini Bernama Sistem Informasi Perpustakaan atau disingkat SIP, SIP Merupakan aplikasi bebasis WEB, aplikasi ini dibauat untuk Uji kompetensi siswa jurusan Rekayasa Perangkat lunak di SMK N 1 Padaherang, aplikasi ini di buat oleh <a href="?mode=MyBio">Gunawan</a>  Siswa SMK N 1 Padaherang</p>
